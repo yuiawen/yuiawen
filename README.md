@@ -21,7 +21,7 @@ I am a student with a passion for technology and an aspiration to become a full 
 
 I am currently focusing on expanding my skills and knowledge in both front-end and back-end development.<br>
 
-If you’d like to connect with me, feel free to follow my [LinkedIn] https://www.linkedin.com/in/ikhwan-alidae-dev/.
+If you’d like to connect with me, feel free to follow my https://www.linkedin.com/in/ikhwan-alidae-dev/.
 
 ### GitHub Statistics
 <p align="left">
