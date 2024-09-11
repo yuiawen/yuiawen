@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ikhwan Alidae .<br>
+My name is Ikhwan Alidae<br>
 
-I am a student with a passion for technology and an aspiration to become a full stack developer.<br>
+I am a student with a passion for technology and an aspiration to become a full stack developer<br>
 
-I am currently focusing on expanding my skills and knowledge in both front-end and back-end development.<br>
+I am currently focusing on expanding my skills and knowledge in both front-end and back-end development<br>
 
-If you’d like to connect with me, feel free to follow my https://www.linkedin.com/in/ikhwan-alidae-dev/.
+If you’d like to connect with me, feel free to follow my https://www.linkedin.com/in/ikhwan-alidae-dev/
 
 ### GitHub Statistics
 <p align="left">
