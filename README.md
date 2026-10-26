@@ -28,4 +28,6 @@ I am a passionate student aspiring to become a **Full Stack Developer**. I am de
 
 ## 📊 My GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yuiawen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&card_width=420)](https://github.com/yuiawen) [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuiawen&layout=compact&theme=algolia&hide=html&langs_count=8&card_width=420)](https://github.com/yuiawen)
+| | |
+|:-:|:-:|
+| [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yuiawen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&card_width=420)](https://github.com/yuiawen) | [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuiawen&layout=compact&theme=algolia&hide=html&langs_count=8&card_width=420)](https://github.com/yuiawen) |
